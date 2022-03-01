@@ -1,0 +1,308 @@
+id: P6FDBE138
+initial_creation_type: input
+source_metadata:
+  title: 'Nāgārjuna: Vigrahavyāvartanīvṛtti'
+  language: zh
+  volumes:
+    098557d9e41649168f7066ce9de8eaad:
+      title: CIII_Verse 21
+      base_file: CIII_Verse 21.txt
+      work_id: WD0032BB5
+    e26523b0c24d4fc9b579f383166602f9:
+      title: CIII_Verse 22
+      base_file: CIII_Verse 22.txt
+      work_id: W6F692C13
+    49b557e4c3ae403eaea690d33338268c:
+      title: CIII_Verse 23
+      base_file: CIII_Verse 23.txt
+      work_id: W8EEA89D2
+    d5c19b3d3dd24403bde826ccfd5376ae:
+      title: CIII_Verse 24
+      base_file: CIII_Verse 24.txt
+      work_id: W1659DDAE
+    0e0ce43ddf424fcf99886fd6298a203e:
+      title: CIII_Verse 25
+      base_file: CIII_Verse 25.txt
+      work_id: WC956687A
+    fcd393a2420446a784888098c161118d:
+      title: CIII_Verse 26
+      base_file: CIII_Verse 26.txt
+      work_id: WF2DE3E44
+    68a125b50d31421ba987e222bffee241:
+      title: CIII_Verse 27
+      base_file: CIII_Verse 27.txt
+      work_id: W1E837055
+    5034878d9c1e4e64bac1dbd717b02f87:
+      title: CIII_Verse 28
+      base_file: CIII_Verse 28.txt
+      work_id: W2BF6C15D
+    17020069782a401c884f226401c8c23a:
+      title: CIII_Verse 29
+      base_file: CIII_Verse 29.txt
+      work_id: WF67C5576
+    49c4f424e845414eac53d215b5c3ba3c:
+      title: CIII_Verse 30
+      base_file: CIII_Verse 30.txt
+      work_id: WDB28ED5A
+    dae3f3b2ed3b48f5a013e85ae17654fc:
+      title: CII_Verse 11
+      base_file: CII_Verse 11.txt
+      work_id: W8A00F4E5
+    f374eaa6ff3c42c3818b8061d066c054:
+      title: CII_Verse 12
+      base_file: CII_Verse 12.txt
+      work_id: WCBEBA488
+    9b2bc050aa234e56a5faa489a9d3f6c6:
+      title: CII_Verse 13
+      base_file: CII_Verse 13.txt
+      work_id: W4F24C48C
+    3c36ade8b0544efe8953e04bc15230c8:
+      title: CII_Verse 14
+      base_file: CII_Verse 14.txt
+      work_id: W0477978E
+    cdffc81d68fb40edbb1aeba98ae7da7b:
+      title: CII_Verse 15
+      base_file: CII_Verse 15.txt
+      work_id: WABFD58E0
+    4d06cc50674548b380becb1122eedb07:
+      title: CII_Verse 16
+      base_file: CII_Verse 16.txt
+      work_id: WD3FA4030
+    395429ee340f406796e3e57148580088:
+      title: CII_Verse 17
+      base_file: CII_Verse 17.txt
+      work_id: WCD512820
+    763d4011b9644653a4e059f2e3ffe4f1:
+      title: CII_Verse 18
+      base_file: CII_Verse 18.txt
+      work_id: W9944BBEF
+    c2bf6658469f491f999faeeba5625cbc:
+      title: CII_Verse 19
+      base_file: CII_Verse 19.txt
+      work_id: W01845B77
+    88d1c0aa20494f8b91be26b2fc4f3905:
+      title: CII_Verse 20
+      base_file: CII_Verse 20.txt
+      work_id: WE25E3E52
+    562d295c2526410e92e95960dc36dbce:
+      title: CIV_Verse 31
+      base_file: CIV_Verse 31.txt
+      work_id: W7ADCA201
+    588cd72a0d434e4eaac15d2e77483558:
+      title: CIV_Verse 32
+      base_file: CIV_Verse 32.txt
+      work_id: WB8A874D8
+    4ba4a97d6dab455899c4aa4ea733f685:
+      title: CIV_Verse 33
+      base_file: CIV_Verse 33.txt
+      work_id: W1D1B5B7B
+    8d020cea77f342f29007859f93a1aa09:
+      title: CIV_Verse 34
+      base_file: CIV_Verse 34.txt
+      work_id: W0359C9B8
+    9b98fc4129d34ba490224b25ed926889:
+      title: CIV_Verse 35
+      base_file: CIV_Verse 35.txt
+      work_id: W3A470090
+    30b667f839e74027a256ae9a85f5a83a:
+      title: CIV_Verse 36
+      base_file: CIV_Verse 36.txt
+      work_id: W963949CC
+    19449e3ca4f04534b00726c259767f49:
+      title: CIV_Verse 37
+      base_file: CIV_Verse 37.txt
+      work_id: W65443CAE
+    bce72017703b4c74be033f1dc664c8ca:
+      title: CIV_Verse 38
+      base_file: CIV_Verse 38.txt
+      work_id: W5B26454F
+    817539f14a3442769e9c0c64c4bd0460:
+      title: CIV_Verse 39
+      base_file: CIV_Verse 39.txt
+      work_id: W3085E373
+    be3f57f813ef46a3b2ee3a6fc87f07e7:
+      title: CIV_Verse 40
+      base_file: CIV_Verse 40.txt
+      work_id: W9C42107A
+    6f630823852e410ab6c6ccb00effb854:
+      title: CI_Verse 1
+      base_file: CI_Verse 1.txt
+      work_id: WC2394429
+    a1fb0a3be2fa459999e807bf213e4e3d:
+      title: CI_Verse 10
+      base_file: CI_Verse 10.txt
+      work_id: W2969B59A
+    a196a6c8023e40e892ab7fcad45363ae:
+      title: CI_Verse 2
+      base_file: CI_Verse 2.txt
+      work_id: WB4B79823
+    98e55d35f4324e638a8da1eed673c659:
+      title: CI_Verse 3
+      base_file: CI_Verse 3.txt
+      work_id: WDD2AC4D9
+    5207b3cdd9cc46a88d42ad6bb45d2f98:
+      title: CI_Verse 4
+      base_file: CI_Verse 4.txt
+      work_id: WB24B323B
+    9dc05de2a69b4bf3b1f7669b8bcfde47:
+      title: CI_Verse 5
+      base_file: CI_Verse 5.txt
+      work_id: W559A5B47
+    85438203eac44f559aa37e72a622444d:
+      title: CI_Verse 6
+      base_file: CI_Verse 6.txt
+      work_id: W6211B565
+    eacb5502ac8f40eda74bc85eade09015:
+      title: CI_Verse 7
+      base_file: CI_Verse 7.txt
+      work_id: WE4F0540C
+    de0eb1efc5ed4b53bfb403be08e55b51:
+      title: CI_Verse 8
+      base_file: CI_Verse 8.txt
+      work_id: W490B26EA
+    2e682f2ed9c644569acf8b986d1c4b63:
+      title: CI_Verse 9
+      base_file: CI_Verse 9.txt
+      work_id: W544A9847
+    c379af8a3bb34cb086287e77e62e0069:
+      title: CVII_Verse 61
+      base_file: CVII_Verse 61.txt
+      work_id: W7664C69A
+    741ccfe9b7c8451ea021a21e5300892b:
+      title: CVII_Verse 62
+      base_file: CVII_Verse 62.txt
+      work_id: W7E81C20B
+    09703d58d57141c89ca87ec260497a53:
+      title: CVII_Verse 63
+      base_file: CVII_Verse 63.txt
+      work_id: WF883EA8F
+    9c24f2e36fd444d8a1a1e64c6c0bab28:
+      title: CVII_Verse 64
+      base_file: CVII_Verse 64.txt
+      work_id: WF011BB9D
+    36ae5164586c49c89134b4fde70fb000:
+      title: CVII_Verse 65
+      base_file: CVII_Verse 65.txt
+      work_id: WF74371F8
+    77141ca40cf14dfbbe31efc7ecae56d4:
+      title: CVII_Verse 66
+      base_file: CVII_Verse 66.txt
+      work_id: W59BD35CD
+    50042fb551f3473b9e52da0e96c2365b:
+      title: CVII_Verse 67
+      base_file: CVII_Verse 67.txt
+      work_id: WFC940BAE
+    8fc5116df3974745a0fd71b6a7de7e5b:
+      title: CVII_Verse 68
+      base_file: CVII_Verse 68.txt
+      work_id: W4C43B44E
+    184e52714b7e47a7a5e61ab43f94a011:
+      title: CVII_Verse 69
+      base_file: CVII_Verse 69.txt
+      work_id: W4D808499
+    20f23e5d727f4fa4a01b0968999e6c9e:
+      title: CVII_Verse 70
+      base_file: CVII_Verse 70.txt
+      work_id: WD8FD9EB6
+    e630e9f8a35e41a090782f24054e8973:
+      title: CVI_Verse 51
+      base_file: CVI_Verse 51.txt
+      work_id: WF7F4FF05
+    1a3f895e9c834fcd855d560945c711aa:
+      title: CVI_Verse 52
+      base_file: CVI_Verse 52.txt
+      work_id: W1DF53A94
+    9f8ad3c63d0d484da427b4ba76f68e64:
+      title: CVI_Verse 53
+      base_file: CVI_Verse 53.txt
+      work_id: W183F8716
+    a9b235db147c4ee3a3b6c28499c18fdd:
+      title: CVI_Verse 54
+      base_file: CVI_Verse 54.txt
+      work_id: WF6548966
+    312f6924bc294f17a5e4061a25ac5438:
+      title: CVI_Verse 55
+      base_file: CVI_Verse 55.txt
+      work_id: W1BBABBF1
+    9ca8abaca4de436ca00566df82096442:
+      title: CVI_Verse 56
+      base_file: CVI_Verse 56.txt
+      work_id: W4E59A4A5
+    44238b6dc0994190ac2d194ad4ef9ce9:
+      title: CVI_Verse 57
+      base_file: CVI_Verse 57.txt
+      work_id: W9649331A
+    a24fc5dc954a482f9aaa5d89bf017354:
+      title: CVI_Verse 58
+      base_file: CVI_Verse 58.txt
+      work_id: W8B273142
+    be9a22011c284327bde50f80c2aed397:
+      title: CVI_Verse 59
+      base_file: CVI_Verse 59.txt
+      work_id: WEEE36866
+    fe537ec46b5647239eae4cbc2b85f09e:
+      title: CVI_Verse 60
+      base_file: CVI_Verse 60.txt
+      work_id: W7C7074A0
+    87164d237e6a4b89a139ce2fe166f49f:
+      title: CV_Verse 41
+      base_file: CV_Verse 41.txt
+      work_id: WB89DD899
+    ea623ea523fe4637bd9132b74ea41baf:
+      title: CV_Verse 42
+      base_file: CV_Verse 42.txt
+      work_id: W6F222062
+    0e14bf1ed7ec456391d3c2213d5763c2:
+      title: CV_Verse 43
+      base_file: CV_Verse 43.txt
+      work_id: W259194A8
+    20a8db02735e4db1b2a3a13ebebd75ef:
+      title: CV_Verse 44
+      base_file: CV_Verse 44.txt
+      work_id: W1B81BD27
+    26e654dfd6224216b88b745b7b435f43:
+      title: CV_Verse 45
+      base_file: CV_Verse 45.txt
+      work_id: WD1E3C773
+    dda6f4529cda4cb2a899cf2b00e7f6a2:
+      title: CV_Verse 46
+      base_file: CV_Verse 46.txt
+      work_id: WBCDB9696
+    556b46d6ee0f4dcf923020e78547470c:
+      title: CV_Verse 47
+      base_file: CV_Verse 47.txt
+      work_id: W53D0D8E4
+    2dde03bde61544938042b3a40b39bb50:
+      title: CV_Verse 48
+      base_file: CV_Verse 48.txt
+      work_id: W4D921B32
+    efa8072ebe9f4ae8bc4bde790fc5c4c5:
+      title: CV_Verse 49
+      base_file: CV_Verse 49.txt
+      work_id: W0CC78708
+    3d67376c11f24a9cae8b12f66e22cf27:
+      title: CV_Verse 50
+      base_file: CV_Verse 50.txt
+      work_id: W6F4C36FA
+    e6cb316b2aa0427886e28ee703e256fa:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W0F4F10F7
+    cf18134886574bb08bc11603caaa14a9:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W4511E510
+    562b6b05700046e98baf8aab5e7db988:
+      title: Title
+      base_file: Title.txt
+      work_id: W88990C11
+  chapter_to_tile:
+    CI: Verse 1-10
+    CII: Verse 11-20
+    CIII: Verse 21-30
+    CIV: Verse 31-40
+    CV: Verse 41-50
+    CVI: Verse 51-60
+    CVII: Verse 61-70
+created_at: '2022-03-01T23:13:12.521627'
+last_modified_at: '2022-03-01T23:13:12.521635'
